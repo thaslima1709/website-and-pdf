@@ -1,0 +1,50 @@
+body{ 
+    background-color:goldenrod ;
+    
+    
+    }
+    
+    h1 
+    { 
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    
+    
+    }
+    
+    
+    .comp2
+    {    
+      display:flex;
+      flex-direction: row;
+    justify-content: space-between;
+    
+    
+    
+    }
+    
+    .comp
+    { 
+    
+        display:flex;
+        justify-content: flex-start;
+    }
+    .header
+    {  
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    
+    }
+    
+    
+    .comp3
+    { 
+    display:flex;
+    justify-content: flex-end;
+    
+    }
+    
+    
